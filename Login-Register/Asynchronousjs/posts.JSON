@@ -1,0 +1,12 @@
+[
+    {
+        "title" : "Post One",
+        "body" : "This is Boday 1",
+        "user" :  "Apdalla"
+    },
+    {
+        "title" : "Post two",
+        "body" : "This is Boday 2",
+        "user" :  "Suleiman"
+    }
+]
